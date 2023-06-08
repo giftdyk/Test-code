@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+}
+.header img{
+    width: 400px;
+    height: 400px;
+}
+.cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+
+}
+.header p{
+    width: 400px;
+    color: white;
+    font-size: 18px;
+    line-height: 35px;
+}
